@@ -11833,7 +11833,7 @@ html {
 }
 .masthead .masthead-avatar {
     width: 15rem;
-    border-radius: 300px;
+    border-radius: 180px;
     background: white;
 }
 
@@ -11901,4 +11901,12 @@ html {
 
 .copyright {
     background-color: #1a252f;
+}
+
+.resume {
+    width: 50%;
+    border-radius: 30px;
+}
+.resume:hover {
+    background: "#198754";
 }
