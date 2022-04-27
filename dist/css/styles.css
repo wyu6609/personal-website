@@ -11443,6 +11443,13 @@ html {
 }
 .masthead .masthead-avatar {
   width: 15rem;
+    border-radius: 180px;
+  background: white;
+}
+
+.resume {
+  width: 50%;
+  border-radius: 30px;
 }
 
 @media (min-width: 992px) {
